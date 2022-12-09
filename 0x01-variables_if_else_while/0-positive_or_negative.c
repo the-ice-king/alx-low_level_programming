@@ -1,4 +1,4 @@
-ii#include <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
 
@@ -17,7 +17,7 @@ int main(void)
 			printf("is negative");
 		}
 		else {
-			printf("is zero")
+			printf("is zero");
 		}
 	}
 	return (0);
